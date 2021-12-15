@@ -97,6 +97,5 @@ public class Main {
         Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());//-> passando método como parâmetro;
         Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
         Emprestimo.calcular(100,5);
-
     }
 }
